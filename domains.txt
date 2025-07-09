@@ -476,3 +476,4 @@ cloud.oracle.com
 oraclecloud.com
 linuxhostsupport.com
 web.dev
+registry.npmjs.org
