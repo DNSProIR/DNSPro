@@ -467,3 +467,12 @@ riotcdn.net
 playvalorant.com
 onshape.com
 day.ir
+lastpass.com
+cursor.com
+gemini.google.com
+bard.google.com
+grok.com
+cloud.oracle.com
+oraclecloud.com
+linuxhostsupport.com
+web.dev
