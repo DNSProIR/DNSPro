@@ -480,3 +480,7 @@ oraclecloud.com
 linuxhostsupport.com
 web.dev
 registry.npmjs.org
+discord.com
+discord.gg
+discord.media
+discordapp.net
