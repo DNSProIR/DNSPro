@@ -496,6 +496,7 @@ graylog.org
 elastic.co
 er-api.com
 domainnameapi.com
+registry.k8s.io
 ipinfo.io
 he.net
 sonatype.com
