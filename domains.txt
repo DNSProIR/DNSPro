@@ -516,3 +516,4 @@ freepik.com
 ollama.ai
 ollama.com
 hashicorp.com
+ghcr.io
