@@ -540,3 +540,4 @@ cl-mirror.net
 cursor.com
 cursor.ai
 cursor.sh
+atlassian.com
