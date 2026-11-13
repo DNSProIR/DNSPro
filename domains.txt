@@ -541,4 +541,5 @@ cl-mirror.net
 cursor.com
 cursor.ai
 cursor.sh
+flow.google.com
 atlassian.com
