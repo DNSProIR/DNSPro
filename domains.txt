@@ -534,6 +534,7 @@ xboxservices.com
 xilinx.com
 yougetsignal.com
 zerotier.com
+stitch.withgoogle.com
 zestyio.com
 zonealarm.com
 cl-mirror.net
