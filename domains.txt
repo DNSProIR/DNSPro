@@ -543,3 +543,4 @@ cursor.ai
 cursor.sh
 flow.google.com
 atlassian.com
+opencode.ai
